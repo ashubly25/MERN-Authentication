@@ -1,0 +1,15 @@
+.paper {
+    display:inline-block;
+    width: 48vh;
+    padding:5vh;
+}
+.field {
+    margin:2vh;
+}
+.grid {
+    margin-top:5vh;
+}
+.icontext {
+    display: inline-flex;
+    align-items: flex-start;
+}
