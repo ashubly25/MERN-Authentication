@@ -19,7 +19,7 @@ Then start the project
 `yarn start
 
 ## Register a New User
-![Register A New User]()
+![Register A New User](https://github.com/ashubly25/MernAuthenticationBoilerplate/blob/master/Screenshot%20from%202020-09-18%2018-10-19.png)
 
 ## Login the new user
 ![Register A New User]()
