@@ -17,3 +17,9 @@ Install all the dependencies with Yarn or NPM
 `yarn install` <br>
 Then start the project
 `yarn start
+
+## Register a New User
+![Register A New User]()
+
+## Login the new user
+![Register A New User]()
